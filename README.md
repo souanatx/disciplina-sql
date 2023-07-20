@@ -9,7 +9,7 @@
     </div>
 <br>
 <br>
-Welcome to the "C++" exercises repository!
+Welcome to the "Fundamentos da linguagem SQL" exercises repository!
 
 <h2>Overview</h2>
     This repository contains all the exercises completed during the Fundamentos da Linguagem SQL class, which is part of the web programming course at CINEL (Centro de Formação Profissional da Indústria Eletrónica, Energia, Telecomunicações e Tecnologias da Informação).
